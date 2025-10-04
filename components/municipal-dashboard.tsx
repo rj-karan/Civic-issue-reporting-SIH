@@ -45,7 +45,7 @@ export function MunicipalDashboard() {
       status: "valid",
       content: "Pothole on MG Road causing traffic issues",
       location: "Sandbox Location: MG Road, Sector 14",
-      timestamp: "2025-01-15 10:30 AM",
+      timestamp: "2025-01-15 11:30 AM",
       imageUrl: "/2520391-potholes-kalyan.webp",
       aiProcessing: {
         yolo: "Pothole detected with 94% confidence",
